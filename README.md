@@ -1,4 +1,4 @@
-This respository contains material accompanying the manuscript:
+This respository contains material accompanying the paper:
 
 **Giant RNA genomes: Roles of host, translation elongation, genome architecture, and proteome in nidoviruses**
 
