@@ -12,3 +12,7 @@ Positive-strand RNA viruses of the order Nidovirales have the largest known RNA 
 
 Proc Natl Acad Sci U S A. 2025 Feb 18;122(7):e2413675122. doi: 10.1073/pnas.2413675122.
 [https://pubmed.ncbi.nlm.nih.gov/39928875](https://pubmed.ncbi.nlm.nih.gov/39928875/)
+
+**Data Availability**
+
+The viral genome sequences have been submitted to the GenBank TPA database under accession numbers BK070317-BK070395. The full list of accessions can be found in sequences/genbank_accessions.txt
